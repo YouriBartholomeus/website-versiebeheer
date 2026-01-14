@@ -11,3 +11,9 @@ nav {
     padding: 10px;
     margin-bottom: 20px;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa; /* lichtblauw voor betere leesbaarheid */
+    text-align: center;
+}
